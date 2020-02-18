@@ -1,0 +1,6 @@
+name: aJoin
+author: Ankh
+version: 1.0.1
+main: ga.ankh.aJoin.Main
+description: Welcomes players and runs a command on first join.
+api-version: 1.15

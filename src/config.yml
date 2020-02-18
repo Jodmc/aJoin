@@ -1,0 +1,9 @@
+# Broadcasts to the server when a player joins for the first time.
+first-join-broadcast: '&a{player} has joined for the first time!'
+# Sends a message to the player only they can see.
+first-join-message: '&9Welcome to the server, {player}!'
+# Runs a command on player join.
+first-join-command: 'say hi {player}!'
+# Use {player} for the player's username. Use & for color codes.
+#
+# Why, hello there alex :eyes:
